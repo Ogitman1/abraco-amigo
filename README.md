@@ -12,7 +12,7 @@ Além de varíos outros benefícios, como acompanhamento psicológico, serviço 
 
 ## Os criativos do trabalho
 Tanto a identidade visual como as copys e criativos serão 100% originais, quaisquer imagens que não sejam de nossa autoria serão editadas 
-e transformadas para cumprir única e exclusivamente os objetivos do projeto. Não advindos nenhum lucro, aproveitamento indevido ou roubo da autoria das obras desses autores. Além, de obviamente, referenciadas na documentação desse projeto. 
+e transformadas para cumprir única e exclusivamente os objetivos do projeto, não advindos nenhum lucro, aproveitamento indevido ou roubo da autoria das obras desses autores. Além disso elas estarão, obviamente, referenciadas na documentação desse projeto. 
 
 Quanto as cores que serão usadas para a identidade visual, colocaremos o código RGBA das mesmas. Elas ficarão disponíveis na área de "Referências" para que não haja problemas com direitos autorais.
 ## Como será feito o projeto
