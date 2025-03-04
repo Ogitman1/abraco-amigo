@@ -16,7 +16,7 @@ e transformadas para cumprir única e exclusivamente os objetivos do projeto. N�
 Quanto as cores que serão usadas para a identidade visual, colocaremos o código RGBA das mesmas. Elas ficarão disponíveis na área de "Referências" para que não haja problemas com direitos autorais.
 ## Como será feito o projeto
 Quanto as tecnologias usadas, utilizaremos a linguagem Java para a construção da lógica do sistemas (regras de negócios) e Javascript para o FRONT. Mais precisamente, ficará assim:
-JAVA - SPRING/SPRING BOOT
+### JAVA - SPRING/SPRING BOOT
   * Spring Data JPA;
   Para simplificar a complexidade no desenvolvimento de Objetos Relacionais(POO salvando, excluindo, lendo ou alterando informações no Banco de Dados);
   * Spring Boot DevTools;
@@ -29,10 +29,10 @@ JAVA - SPRING/SPRING BOOT
   Para construir aplicações web e ter respostas de requisições HTTP do Cliente (CRIAÇÃO DE API RESTFUL);
   * Validation;
   Auxilia na validação de dados recebidos pela aplicação, assegurando que as informações processadas estejam em conformidade com as regras de negócio estabelecidas.
-JAVASCRIPT
+### JAVASCRIPT
   * HTML;
   * CSS;
   * BootStrap ou Tailwinds (estamos decidindo);
   * mediaqueries (para responsividade);
-SQL
+### SQL
 Para manipulação, exclusão, leitura e armazenamento no Banco de Dados;
