@@ -10,10 +10,10 @@
 </p>
 <p>Além de varíos outros benefícios, como acompanhamento psicológico, serviço social e atividades de lazer</p>
 ## Os criativos do trabalho
-<p>Tanto a identidade visual como as copys e criativos serão 100% originais, quaisquer imagens que não sejam de nossa autoria serão editadas 
+Tanto a identidade visual como as copys e criativos serão 100% originais, quaisquer imagens que não sejam de nossa autoria serão editadas 
 e transformadas para cumprir única e exclusivamente os objetivos do projeto. Não advindos nenhum lucro, aproveitamento indevido ou roubo da autoria das obras desses autores. Além, de obviamente, referenciadas na documentação desse projeto. 
-</p>
-<p>Quanto as cores que serão usadas para a identidade visual, colocaremos o código RGBA das mesmas. Elas ficarão disponíveis na área de "Referências" para que não haja problemas com direitos autorais.</p>
+
+Quanto as cores que serão usadas para a identidade visual, colocaremos o código RGBA das mesmas. Elas ficarão disponíveis na área de "Referências" para que não haja problemas com direitos autorais.
 ## Como será feito o projeto
 Quanto as tecnologias usadas, utilizaremos a linguagem Java para a construção da lógica do sistemas (regras de negócios) e Javascript para o FRONT. Mais precisamente, ficará assim:
 JAVA - SPRING/SPRING BOOT
